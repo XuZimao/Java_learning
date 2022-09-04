@@ -1,2 +1,2 @@
 # Java_learning
-These are my notes for learning Java as a beginner
+学习Java中所做的一些笔记
